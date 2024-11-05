@@ -6,13 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-plugins:
-  - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-
-
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Tom McDonough"
@@ -171,7 +164,6 @@ exclude:
   - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - assets`
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
