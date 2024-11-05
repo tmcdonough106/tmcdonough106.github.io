@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Portrait (1).jpg"
+  avatar           : "https://www.stonybrook.edu/commcms/polisci/_images/_phdphotos/mcdonough_tom.jpg"
   name             : "Tom McDonough"
   pronouns         : # example: "she/her"  
   bio              : "PhD student studying the politics of the future"
