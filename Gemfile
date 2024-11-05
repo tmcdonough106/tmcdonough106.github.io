@@ -9,5 +9,3 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
-
-gem "academic-jekyll-theme"
