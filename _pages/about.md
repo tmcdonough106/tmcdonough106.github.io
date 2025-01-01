@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Stony Brook University in the Department of Political Science. I use theory and methods from political psychology and behavioral economics to study how people evaluate the future, evaluate information, and react to social and technological innovation. My goal is to bridge the gap between academic knowledge and public opinion to help prevent global catastrophes.
+I'm a PhD student at Stony Brook University in the Department of Political Science. I use theory and methods from political psychology and behavioral economics to study how people evaluate the future, process information, and react to social and technological innovation. I am particularly interested in the intersection between anthropogenic activity and the social consciousness of its impacts. My goal is to bridge the gap between academic knowledge and public opinion to help prevent global catastrophes.
 
 I did my undergraduate studies at the University of New Hampshire, where I learned the foundations of politics, philosophy, economics, and American history. All of these disciplines and more inform my work today and help me to understand the complexities of the political decision making.
 
