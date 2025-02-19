@@ -13,6 +13,6 @@ I did my undergraduate studies at the University of New Hampshire, where I learn
 
 I was also fortunate to have the opportunity to work as the Director of Communications for [Leading Cities](https://leadingcities.org/about) during 2020, where I learned the value of science communication for technological adoption and of public support for startup companies.
 
-When I'm not doing research, I like to spend my time studying languages (currently Portuguese, Italian, and Korean), baking, and playing whatever instruments I can get my hands on.
+When I'm not doing research, I like to spend my time studying languages (currently Portuguese, Italian, and Spanish), baking, and playing whatever instruments I can get my hands on.
 
 Thanks for stopping by! Email me if you'd like to collaborate.
