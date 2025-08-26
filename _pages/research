@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="files/Information Framing Effects on Individual Climate Urgency.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 {% include base_path %}
 
