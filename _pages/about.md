@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Stony Brook University in the Department of Political Science. I study information processing in the context of political decision making, using methods from political psychology and behavioral economics. I am particularly interested in how people evaluate the future based on their perceptions of event probabilities. My work focuses on public opinion and political beliefs, with a focus on how priorities, predictions, and beliefs adapt as new information becomes available. 
+I'm a PhD student at Stony Brook University in the Department of Political Science. I study information processing in the context of political decision making, using methods from political psychology and behavioral economics. I am particularly interested in how people evaluate the future based on their perceptions of event probabilities. My work focuses on public opinion and political beliefs, with a focus on how priorities, predictions, and beliefs adapt as new information becomes available. I am interested in the evolving political discourse and policy action around climate change, technological innovation, disease outbreaks, terrorism, population growth, resource distribution, and similar collective risks.
 
 I did my undergraduate studies at the University of New Hampshire, where I majored in political science and international affairs with minors in philosophy, economics, and American history. All of these disciplines and more inform my work today and help me to explore the complexities of the political decision making.
 
