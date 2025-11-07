@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Stony Brook University in the Department of Political Science. I study political behavior in the context of decision making, using methods from political psychology and behavioral economics. I am particularly interested in the ability of citizens in democracies to effictively address collective risks. My work focuses on public opinion and political beliefs, with a focus on how priorities, predictions, and beliefs adapt as new information becomes available. I am also interested in the evolving political discourse and policy action around climate change, technological innovation, disease outbreaks, terrorism, population growth, resource distribution, and similar collective risks.
+I'm a PhD student at Stony Brook University in the Department of Political Science. I study political behavior in the context of decision making, using methods from political psychology and behavioral economics. I am particularly interested in the ability of citizens in democracies to effectively address collective risks. My work focuses on public opinion and political beliefs, with a focus on how priorities, predictions, and beliefs adapt as new information becomes available. I am also interested in the evolving political discourse and policy action around climate change, technological innovation, disease outbreaks, terrorism, population growth, resource distribution, and similar collective risks.
 
 My research agenda hopes to answer the following questions:
 1. How do people identify a problem?
