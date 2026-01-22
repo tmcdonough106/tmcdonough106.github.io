@@ -26,7 +26,6 @@ In Progress:
 
 - Goal Resolution and Political Reprioritization (with [Reuben Kline](https://sites.google.com/site/reubenckline/))
 - Minding the (Experimental) Gap: Comparing Prosociality and Comprehension with Real and Hypothetical Incentives in the Lab and Online (with [Reuben Kline](https://sites.google.com/site/reubenckline/), [Alexa Bankert](https://www.alexabankert.com/), and [Ignacio Urbina](https://sites.google.com/stonybrook.edu/ignacio-urbina/))
-- Testing the Availability Condition in Framing Experiments (with William Brown)
 - Information Framing Effects on Individual Climate Urgency
 - Does Social Signaling in a Public Goods Game Encourage Pareto Optimality or Detrimental Freeriding? (with William Brown and Josh McDonnell)
 - The Effects of Social Learning on Success in a Collective Risk Social Dilemma
