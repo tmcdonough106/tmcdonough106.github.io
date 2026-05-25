@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Stony Brook University in the Department of Political Science. I study political behavior in the context of decision making, using methods from political psychology and behavioral economics. I am particularly interested in the ability of citizens in democracies to effectively address collective risks given their preferences on uncertainty and cooperation. My work focuses on exploring the relationship between political preferences and economic preferences, specifically by testing the compatibility of standard political psychology self-report batteries and economic lottery choices. I am also interested in the evolving political discourse and policy action around climate change, technological innovation, disease outbreaks, terrorism, population growth, resource distribution, and similar collective risks.
+I'm a PhD student at Stony Brook University in the Department of Political Science. I study political decision making using methods from political psychology and behavioral economics. I am particularly interested in the ability of citizens in democracies to effectively address collective risks. My work explores the relationship between political preferences and economic preferences, specifically by testing the compatibility of standard political psychology self-report batteries and economic lottery choices. I am also interested in the evolving political discourse and policy action around climate change, technological innovation, disease outbreaks, terrorism, population growth, resource distribution, and similar collective risks.
 
 My research agenda explores the questions:
 1. Do context-neutral economic preferences predict context-laden political preferences?
@@ -29,6 +29,6 @@ In Progress:
 - Does Social Signaling in a Public Goods Game Encourage Pareto Optimality or Detrimental Freeriding? (with [Reuben Kline](https://sites.google.com/site/reubenckline/), [Ignacio Urbina](https://sites.google.com/stonybrook.edu/ignacio-urbina/), William Brown, and Josh McDonnell)
 - The Effects of Social Learning on Success in a Collective Risk Social Dilemma
 - Can Higher-Order Risk Preferences Explain the Dimensional Structure of Ideology?
-- Salience Constraint and Populist Movements (with [Adam Panish](https://adampanish.com/))
+- Populism and the Attention Economy (with [Adam Panish](https://adampanish.com/))
 
 Thanks for stopping by! Email me if you'd like to collaborate.
