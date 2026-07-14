@@ -24,7 +24,7 @@ author:
   avatar           : "https://www.stonybrook.edu/commcms/polisci/_images/_phdphotos/mcdonough_tom.jpg"
   name             : "Tom McDonough"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student studying the politics of the future"
+  bio              : "PhD student studying preference formation"
   location         : "New York"
   employer         : "Stony Brook University"
   uri              : # URL
@@ -60,7 +60,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : https://medium.com/@thomas_mcdonough
+  medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
