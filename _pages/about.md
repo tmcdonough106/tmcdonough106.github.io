@@ -23,8 +23,8 @@ When I'm not doing research, I like to spend my time studying languages (current
 
 In Progress:
 
-- Equivalency Framing as a Partisan Identity Catalyst
-- Goal Resolution and Political Reprioritization (with [Reuben Kline](https://sites.google.com/site/reubenckline/))
+- Equivalency Framing as a Partisan Identity Catalyst for Proenvironmental Action
+- Political Learning and Issue Reprioritization (with [Reuben Kline](https://sites.google.com/site/reubenckline/))
 - Minding the (Experimental) Gap: Comparing Prosociality and Comprehension with Real and Hypothetical Incentives in the Lab and Online (with [Reuben Kline](https://sites.google.com/site/reubenckline/), [Alexa Bankert](https://www.alexabankert.com/), and [Ignacio Urbina](https://sites.google.com/stonybrook.edu/ignacio-urbina/))
 - Does Social Signaling in a Public Goods Game Encourage Pareto Optimality or Detrimental Freeriding? (with [Reuben Kline](https://sites.google.com/site/reubenckline/), [Ignacio Urbina](https://sites.google.com/stonybrook.edu/ignacio-urbina/), William Brown, and Josh McDonnell)
 - The Effects of Social Learning on Success in a Collective Risk Social Dilemma
