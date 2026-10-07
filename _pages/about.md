@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Stony Brook University in the Department of Political Science. I study political decision making using methods from political psychology and behavioral economics. I am particularly interested in the expression of political preferences. My work explores the relationship between political preferences, social norms, psychological dispositions, and economic preferences. I am also interested in the evolving political discourse and policy action around climate change, technological innovation, disease outbreaks, terrorism, population growth, resource distribution, and similar collective risks.
+I'm a PhD student at Stony Brook University in the Department of Political Science. I study the expression of political preferences using methods from political psychology and behavioral economics. My work explores the relationship between political attitudes, social learning, and cooperative preferences. I am also interested in the evolving political discourse and policy action around climate change, technological innovation, disease outbreaks, terrorism, population growth, resource distribution, and similar collective risks.
 
 My research agenda explores the questions:
-1. Can context-neutral economic preferences and value statements predict context-laden political preferences?
+1. Can context-neutral cooperative preferences explain context-laden political attitudes?
 2. How do political engagement and the social learning of "what goes with what" reshape this relationship?
 3. How do people determine the salience of political issues, particularly those with uncertain outcomes?
-4. How do individual preferences shape political cooperation and the expression of beliefs in a social environment?
+4. How do individual preferences shape political cooperation and the expression of beliefs in more complex social environments?
 
 I did my undergraduate studies at the University of New Hampshire, where I majored in political science and international affairs with minors in philosophy, economics, and American history. All of these disciplines and more inform my work today and help me to explore the complexities of the political decision making.
 
@@ -25,10 +25,11 @@ In Progress:
 
 - Equivalency Framing as a Partisan Identity Catalyst for Proenvironmental Action
 - Political Learning and Issue Reprioritization (with [Reuben Kline](https://sites.google.com/site/reubenckline/))
-- Minding the (Experimental) Gap: Comparing Prosociality and Comprehension with Real and Hypothetical Incentives in the Lab and Online (with [Reuben Kline](https://sites.google.com/site/reubenckline/), [Alexa Bankert](https://www.alexabankert.com/), and [Ignacio Urbina](https://sites.google.com/stonybrook.edu/ignacio-urbina/))
+- Minding the (Experimental) Gap: Comparing Prosociality and Comprehension with Real and Hypothetical Incentives in the Lab and Online (with [Reuben Kline](https://sites.google.com/site/reubenckline/), [John Kane](https://www.johnvkane.com/), [Alexa Bankert](https://www.alexabankert.com/), and [Ignacio Urbina](https://sites.google.com/stonybrook.edu/ignacio-urbina/))
 - Does Social Signaling in a Public Goods Game Encourage Pareto Optimality or Detrimental Freeriding? (with [Reuben Kline](https://sites.google.com/site/reubenckline/), [Ignacio Urbina](https://sites.google.com/stonybrook.edu/ignacio-urbina/), William Brown, and Josh McDonnell)
 - The Effects of Social Learning on Success in a Collective Risk Social Dilemma
 - Populism and the Attention Economy (with [Adam Panish](https://adampanish.com/))
 - Is the Future about Me? (with [Stephanie DeMora](https://www.stephaniedemora.com/))
+- Dual-inheritance Evolution and Institutional Equilibria
 
 Thanks for stopping by! Email me if you'd like to collaborate.
