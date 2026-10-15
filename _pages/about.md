@@ -25,7 +25,6 @@ In Progress:
 
 - Equivalency Framing as a Partisan Identity Catalyst for Proenvironmental Action
 - Political Learning and Issue Reprioritization (with [Reuben Kline](https://sites.google.com/site/reubenckline/))
-- Minding the (Experimental) Gap: Comparing Prosociality and Comprehension with Real and Hypothetical Incentives in the Lab and Online (with [Reuben Kline](https://sites.google.com/site/reubenckline/), [John Kane](https://www.johnvkane.com/), [Alexa Bankert](https://www.alexabankert.com/), and [Ignacio Urbina](https://sites.google.com/stonybrook.edu/ignacio-urbina/))
 - Does Social Signaling in a Public Goods Game Encourage Pareto Optimality or Detrimental Freeriding? (with [Reuben Kline](https://sites.google.com/site/reubenckline/), [Ignacio Urbina](https://sites.google.com/stonybrook.edu/ignacio-urbina/), William Brown, and Josh McDonnell)
 - The Effects of Social Learning on Success in a Collective Risk Social Dilemma
 - Issue Salience and the Attention Economy (with [Adam Panish](https://adampanish.com/))
