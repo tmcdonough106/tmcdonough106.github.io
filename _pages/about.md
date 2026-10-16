@@ -15,7 +15,7 @@ My research agenda explores the questions:
 3. How do people determine the salience of political issues, particularly those with uncertain outcomes?
 4. How do individual preferences shape political cooperation and the expression of beliefs in more complex social environments?
 
-I did my undergraduate studies at the University of New Hampshire, where I majored in political science and international affairs with minors in philosophy, economics, and American history. All of these disciplines and more inform my work today and help me to explore the complexities of the political decision making.
+I did my undergraduate studies at the University of New Hampshire, majoring in political science and international affairs with minors in philosophy, economics, and American history. I was also fortunate to complete advanced graduate studies and research in political science at the University of New Hampshire and climate science and adaptation at the University of Maine. All of these disciplines and more inform my work today and help me to explore the complexities of the political decision making.
 
 I was also fortunate to have the opportunity to work as the Director of Communications for [Leading Cities](https://leadingcities.org/about), where I learned the value of science communication for technological integration and the importance of providing public support for social innovation.
 
