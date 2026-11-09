@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Stony Brook University in the Department of Political Science specializing in political behavior and methodology. I study the expression of political preferences using methods from political psychology and behavioral economics. My work explores the relationship between traits, preferences, social learning, and political attitudes. I am also interested in the evolving political discourse and policy action around climate change, technological innovation, disease outbreaks, terrorism, population growth, resource distribution, and similar collective risks.
+I'm a PhD student at Stony Brook University in the Department of Political Science specializing in political behavior and methodology. I study the expression of political attitudes using methods from political psychology and behavioral economics. My work explores the relationship between traits, preferences, social learning, and political attitudes. I am also interested in the evolving political discourse and policy action around climate change, technological innovation, disease outbreaks, terrorism, population growth, resource distribution, and similar collective risks.
 
 My research agenda explores the questions:
 1. Can context-neutral preferences explain context-laden political attitudes?
 2. How do political engagement and the social learning of "what goes with what" reshape this relationship?
 3. How do people determine the salience of political issues, particularly those with uncertain outcomes?
-4. How do ancestral cognitive mechanisms function in modern complex social environments?
+4. Are individual preferences cleanly expressed in partisan politics?
 
 I did my undergraduate studies at the University of New Hampshire, majoring in political science and international affairs with minors in philosophy, economics, and American history. I was also fortunate to complete advanced graduate studies and research in political science at the University of New Hampshire and climate science and adaptation at the University of Maine. All of these disciplines and more inform my work today and help me to explore the complexities of the political decision making.
 
