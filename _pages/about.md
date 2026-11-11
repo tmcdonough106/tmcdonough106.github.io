@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at Stony Brook University in the Department of Political Science specializing in political behavior and methodology. I study the expression of political attitudes using methods from political psychology and behavioral economics. My work explores the relationship between traits, preferences, social learning, and political attitudes. I am also interested in the evolving political discourse and policy action around climate change, technological innovation, disease outbreaks, terrorism, population growth, resource distribution, and similar collective risks.
+I'm a PhD student at Stony Brook University in the Department of Political Science specializing in political behavior and methodology. I study the expression of political attitudes using methods from political psychology and behavioral economics. My work explores the relationship between traits, preferences, social learning, and political attitudes. I am also interested in the evolving political discourse and policy action around climate change, technological innovation, and other collective risks.
 
 My research agenda explores the questions:
 1. Can context-neutral preferences explain context-laden political attitudes?
